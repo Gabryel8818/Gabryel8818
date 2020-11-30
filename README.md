@@ -41,6 +41,11 @@
 ![](https://img.shields.io/badge/-MariaDB-informational?style=for-the-badge&logo=MariaDB%20Foundation&color=000000)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&color=000000)
 ![](https://img.shields.io/badge/-Ruby-informational?style=for-the-badge&logo=Ruby&color=red)
+![](https://img.shields.io/badge/-Shell-informational?style=for-the-badge&logo=Shell&color=000000)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&color=000000)
+![](https://img.shields.io/badge/-Chef-informational?style=for-the-badge&logo=Chef&color=000000)
+![](https://img.shields.io/badge/-Ansible-informational?style=for-the-badge&logo=Ansible&color=000000)
+
 
 
 
