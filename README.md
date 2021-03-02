@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-    I'm very interested in Software Development and I always try to improve my skills every day.</h3>
+    I'm very interested in linux infrastructure and I always try to improve my skills every day.</h3>
 
 <h4 align="center">
     Here are my social medias and email:
