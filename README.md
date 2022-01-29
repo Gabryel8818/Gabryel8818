@@ -1,9 +1,9 @@
 <strong>
-    <h2>Olá eu sou o Gabriel Melo</h2>
+    <h2>Olá eu sou Gabriel Melo</h2>
 </strong>
 
 <h3 align="center">
-    Sou bastante interessado em Infraestrutura Linux bem como ferramentas OpenSource e busco aprimorar meus conhecimentos constantemente.</h3>
+    Sou muito interessado em Infraestrutura Linux bem como ferramentas OpenSource e busco aprimorar meus conhecimentos constantemente nestes assuntos.</h3>
 
 <h4 align="center">
     Aqui estão minhas midias sociais e email:
