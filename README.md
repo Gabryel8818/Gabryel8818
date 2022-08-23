@@ -1,57 +1,46 @@
-<strong>
-    <h2>Olá eu sou Gabriel Melo</h2>
-</strong>
+Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Gabriel Melo ❤️
+<div align="center">
+  <a href="https://github.com/Gabryel8818">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabryel8818&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel8818&layout=compact&langs_count=7&theme=dracula"/>
+        <img align="right" alt="Kali" height="150" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/Oriscl3_nvmDPncct6gStmNuQW_4tqHVozy1skG0vd8Jk22KYNMYYJfKq0vcyU-NKdw">
+</div>
+ 
+  
+## Programming
+![image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h3 align="center">
-    Sou muito interessado em Infraestrutura Linux bem como ferramentas OpenSource e busco aprimorar meus conhecimentos constantemente nestes assuntos.</h3>
+## Infrastructure
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![image](https://img.shields.io/badge/Puppet-FFAD19?style=for-the-badge&logo=puppet&logoColor=black)
+![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
+![image](https://img.shields.io/badge/Chef-EF9600?style=for-the-badge&logo=chef&logoColor=white)
+![image](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Packer-1DAEFF?style=for-the-badge&logo=packer&logoColor=white)
 
-<h4 align="center">
-    Aqui estão minhas midias sociais e email:
-</h4>
+## My social medias
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/melo-nascimento/">Linkedin</a>
-    <br>
-    <a href="https://github.com/Gabryel8818">Github</a>
-    <br>
-    <a href="gabriel_melo88@hotmail.com">Email</a>
-</p>
+<a href="https://github.com/Gabryel8818">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-
-![](https://img.shields.io/github/followers/Gabryel8818?style=social)
-
-</p>
-
-<h3>
-    As tecnologias que atuo são estas:
-</h3>
+<a href="https://www.linkedin.com/in/melo-nascimento/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
+## Play Games
 
-![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
-![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=000000)
-![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
-![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
-![](https://img.shields.io/badge/-MariaDB-informational?style=for-the-badge&logo=MariaDB%20Foundation&color=000000)
-![](https://img.shields.io/badge/-Ruby-informational?style=for-the-badge&logo=Ruby&color=red)
-![](https://img.shields.io/badge/-Shell-informational?style=for-the-badge&logo=Shell&color=000000)
-![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&color=000000)
-![](https://img.shields.io/badge/-Chef-informational?style=for-the-badge&logo=Chef&color=000000)
-![](https://img.shields.io/badge/-Ansible-informational?style=for-the-badge&logo=Ansible&color=000000)
-![](https://img.shields.io/badge/-Puppet-informational?style=for-the-badge&logo=Puppet&color=000000)
-![](https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=Jenkins&color=000000)
-
+<a href="https://t.co/bVTt8VezVS">
+    <img src="https://img.shields.io/badge/Warcraft-000000?style=for-the-badge&logo=warcraft&logoColor=black" />
+</a>
 
 
 
-
-<br />
-<br />
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel8818&layout=compact&hide_border=true)
-
-
-![jujustsu](https://img.wattpad.com/cb4c38c9d39eb0cfbd942a59e5dabb2400e455c7/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4c484f4d7a51535f3977393058673d3d2d3938303530343832352e313635333565616138643264353931353331383532373936373235352e676966)
-
+    
