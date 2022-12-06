@@ -9,7 +9,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Gabriel Melo ❤️
   
 ## Programming
 ![image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![image](https://img.shields.io/badge/Go-1DAEFF?style=for-the-badge&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
